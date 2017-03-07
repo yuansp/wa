@@ -1,3 +1,4 @@
 function(){
-	alert("aa");
+	alert("aa")
 }
+alert("hello");
